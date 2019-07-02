@@ -6,7 +6,6 @@ public class Main {
         testClass human = new testClass("Володя",29);
 
         System.out.println(human.getAge());
-
     }
 
 }
